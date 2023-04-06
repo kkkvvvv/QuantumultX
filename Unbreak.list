@@ -40,6 +40,6 @@
 #
 
 #AdvertisingTest
-DOMAIN,collector.github.com,PROXY
-#DOMAIN-SUFFIX,*snssdk.com,DIRECT
-DOMAIN-KEYWORD,snssdk.com,DIRECT
+#DOMAIN,collector.github.com,PROXY
+DOMAIN-SUFFIX,apple.com,DIRECT
+
