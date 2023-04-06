@@ -41,5 +41,13 @@
 
 #AdvertisingTest
 #DOMAIN,collector.github.com,PROXY
+
+#Global放行
 DOMAIN-SUFFIX,apple.com,DIRECT
+
+# Block iOS Update
+DOMAIN,mesu.apple.com,REJECT
+DOMAIN,gdmf.apple.com,REJECT
+DOMAIN,updates-http.cdn-apple.com,REJECT
+DOMAIN,xp.apple.com,REJECT
 
