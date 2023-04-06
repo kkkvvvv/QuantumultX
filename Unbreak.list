@@ -51,3 +51,7 @@ DOMAIN,xp.apple.com,REJECT
 DOMAIN-SUFFIX,microsoft.com,PROXY
 
 
+#kbjfree AD
+DOMAIN,track.dalysb.com,REJECT
+
+
