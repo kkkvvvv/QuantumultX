@@ -40,4 +40,4 @@
 #
 
 #AdvertisingTest
-DIMAIN,collector.github.com,PROXY
+DOMAIN,collector.github.com,PROXY
