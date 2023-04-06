@@ -54,4 +54,7 @@ DOMAIN-SUFFIX,microsoft.com,PROXY
 #kbjfree AD
 DOMAIN,track.dalysb.com,REJECT
 
+#alook
+DOMAIN,data.flurry.com,REJECT
+
 
