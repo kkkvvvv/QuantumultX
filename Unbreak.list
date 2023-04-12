@@ -57,4 +57,7 @@ DOMAIN,track.dalysb.com,REJECT
 #alook
 DOMAIN,data.flurry.com,REJECT
 
+#google
+DOMAIN,mtalk.google.com,PROXY
+
 
