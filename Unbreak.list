@@ -60,4 +60,7 @@ DOMAIN,data.flurry.com,REJECT
 #google
 DOMAIN,mtalk.google.com,PROXY
 
+#thebjav
+DOMAIN-SUFFIX,thebjav.com,PROXY
+
 
