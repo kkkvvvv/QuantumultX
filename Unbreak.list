@@ -63,4 +63,7 @@ DOMAIN,mtalk.google.com,PROXY
 #thebjav
 DOMAIN-SUFFIX,thebjav.com,PROXY
 
+#duolingo
+HOST-SUFFIX, DUOLINGO.CN, PROXY
+
 
