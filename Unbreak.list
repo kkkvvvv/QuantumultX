@@ -73,4 +73,6 @@ HOST-SUFFIX, CBR.COM, PROXY
 
 #友盟
 DOMAIN-SUFFIX,umeng.com,REJECT
+DOMAIN-SUFFIX,umengcloud.com,REJECT
+
 
