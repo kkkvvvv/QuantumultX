@@ -50,6 +50,7 @@ DOMAIN,updates.cdn-apple.com,REJECT
 
 #Microsoft
 DOMAIN-SUFFIX,microsoft.com,PROXY
+DOMAIN-SUFFIX,microsoftonline.com,PROXY
 
 
 #kbjfree AD
