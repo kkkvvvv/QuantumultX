@@ -76,4 +76,7 @@ HOST-SUFFIX, CBR.COM, PROXY
 DOMAIN-SUFFIX,umeng.com,REJECT
 DOMAIN-SUFFIX,umengcloud.com,REJECT
 
+#namu
+DOMAIN,namu.wiki,DIRECT
+
 
