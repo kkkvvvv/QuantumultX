@@ -1,6 +1,6 @@
 var modifiedHeaders = $request.headers;
 
-modifiedHeaders['User-Agent'] = 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.0.0';
+modifiedHeaders['User-Agent'] = 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/113.0.1774.42 Version/14.0 Mobile/15E148 Safari/604.1';
 
 
 
