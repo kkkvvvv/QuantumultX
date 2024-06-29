@@ -1,0 +1,9 @@
+#!name=Google Rewrite
+#!desc=Safari 谷歌搜索重定向
+#!system=ios
+
+hostname = www.google.fr, www.g.fr
+
+^https?://(www\.)?g\.fr url 302 https://www.google.com
+^https?://(www\.)?google\.fr url 302 https://www.google.com
+^https?://(www\.)?google\.fr/search url 302 https://www.google.com/search
